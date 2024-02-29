@@ -12,7 +12,7 @@ I encountered issues with hibernation on my laptop (running Kubuntu 23.10). When
 - Storage: 512GB SSD
 - Graphics: NVIDIA GeForce RTX 3050
 - Display: 15.6" FHD
-- Operating System: DOS
+- Operating System: Kubuntu 23.10
 
 ## Solution
 To resolve the issue, follow these steps:
