@@ -1,4 +1,4 @@
-# HP Victus Sleep Mode / Hibernation Repair
+# HP Victus Sleep Mode / Hibernation Repair (Linux)
 
 Fixing sleep mode on HP Victus (Intel i7, NVIDIA GTX 3050 mobile)
 
