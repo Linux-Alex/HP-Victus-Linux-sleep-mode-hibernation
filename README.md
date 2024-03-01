@@ -28,3 +28,6 @@ To resolve the issue, follow these steps:
 
    To: `GRUB_CMDLINE_LINUX="intel_idle.max_cstate=4"`
 3. Run: `sudo update-grub`
+
+## If it still doesn't work
+- check that the minimum swap partition size is 1.5 times of RAM capacity
